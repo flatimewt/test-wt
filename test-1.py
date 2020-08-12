@@ -1,5 +1,6 @@
 import pandas as pd
-a=1
+
+#删除a
 b=2
 c=a+b
 d=c+a+b
